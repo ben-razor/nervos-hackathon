@@ -1,5 +1,5 @@
 ### Deposit Receiver Address Screenshot
-![Deposit Receiver Address Screenshot](https://github.com/ben-razor/nervos-hackathon/blob/main/6-force-bridge)
+![Deposit Receiver Address Screenshot](https://github.com/ben-razor/nervos-hackathon/blob/main/6-force-bridge/deposit-receiver-address.png)
 
 ### Deposit Receiver Address
 ckt1q3dz2p4mdrvp5ywu4kk5edl2uc4p03puvx07g7kgqdau3n3dmypkqnxzuefxyp9wdghglncj77k5wt6p59sx6kukyjlwh5s467qgp8m25yqqqqqsqqqqqvqqqqqfjqqqqz4ftlkhzpjnkvlqmk03e3u6lw20dgtxgxg64nhegpscz3ejwapez6gqqqqpqqqqqqcqqqqqxyqqqqx7asf60w8pqpte2sfcfn90fdfzxue7ff2g8sawe9wacnqat6jmygqngqqqqpxv9ejjvgz2u63w3l839aadguh5rgtqd4devf97a0fpt4uqsz0k4htr5aqxrlgz9p50rz7tkagt64jnpqylzq9rqgqqqqqqcqzg58pe
