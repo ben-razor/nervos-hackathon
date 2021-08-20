@@ -1,4 +1,4 @@
-### A screenshot of the accounts you created (account list) in ckb-cli
+### A screenshot of the accounts in ckb-cli
 
 ![L1 Accounts](https://github.com/ben-razor/nervos-hackathon/blob/main/11-use-tron-wallet/1-l1-accounts.png)
 
